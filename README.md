@@ -1,2 +1,3 @@
 # Machine-Learning-Course-Answers
-ex answers for Stanford Andrew Ng's Machine Learning Course
+
+Excercise answers for Andrew Ng's Machine Learning Course on Coursera.
